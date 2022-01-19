@@ -13,6 +13,9 @@
 
 ##
 
+![Snake animation](https://github.com/ThiagoFerreiraWD/ThiagoFerreiraWD/blob/output/github-contribution-grid-snake.svg)
+
+
 ## Connect with me:
 <div>    
    <a href="https://www.linkedin.com/in/tferreirasilva/">
@@ -28,7 +31,3 @@
   </a>
 </div>
 
-##
-
-
-![Snake animation](https://github.com/ThiagoFerreiraWD/ThiagoFerreiraWD/blob/output/github-contribution-grid-snake.svg)
