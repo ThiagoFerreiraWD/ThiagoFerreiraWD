@@ -1,4 +1,4 @@
-# Cientista de Dados | Analista de Dados
+# Cientista de Dados | Engenheiro de Dados
 
 ## My skills:
 <div style="display: inline_block">    
