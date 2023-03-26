@@ -20,10 +20,7 @@
   <a href = "mailto:thiago.ferreirawd@gmail.com">
       <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
   </a>
-  
-  <a href = "https://www.facebook.com/thiago.ferreira.50746">
-    <img width=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-  </a>
+
 </div>
 
 #
